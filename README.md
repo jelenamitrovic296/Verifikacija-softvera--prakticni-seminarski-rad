@@ -1,1 +1,1 @@
-# Verifikacija-softvera--prakticni-seminarski-rad
+# Verifikacija softvera prakticni seminarsk rad
